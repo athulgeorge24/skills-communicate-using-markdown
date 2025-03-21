@@ -21,3 +21,13 @@ int main() {
     printf("Hello, %s!\n", name);
    return 0;
 }
+```
+
+Activity 4
+
+### Task List
+
+- [ ] Complete the GitHub task list tutorial
+- [x] Add an image to my GitHub page
+- [ ] Write an introduction for my portfolio
+- [x] Learn how to use Markdown syntax
